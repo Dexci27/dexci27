@@ -1,5 +1,9 @@
 ## Hello World! 👋
 
+            Curiosity sparked my interest in mathematics; discipline and initiative turned that interest into code.
+
+            I aspire to use technology to build systems that create real, measurable improvement in people’s lives.
+
 <!--
 **Dexci27/dexci27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
